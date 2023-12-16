@@ -1,4 +1,6 @@
-#Initiate game
+#Adventure Game App
+
+#Intro
 print('Welcome to Treasure Island. Your Mission is to find the treasure.')
 
 #Question 1
